@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Band Members</string>
+    <string name="member_name_1">Chester Bennington</string>
+    <string name="member_name_2">Mike Shinoda</string>
+    <string name="member_name_3">Brad Delson</string>
+    <string name="member_name_4">Rob Bourdon</string>
+    <string name="member_name_5">Dave Farrell</string>
+    <string name="member_name_6">Joe Hahn</string>
+    <string name="member_name_7">Oliver Sykes</string>
+    <string name="member_name_8">Jordan Fish</string>
+    <string name="member_name_9">Lee Malia</string>
+    <string name="member_name_10">Matthew Nicholls</string>
+    <string name="member_name_11">Matt Kean</string>
+
+    <string name="member_description_1">From the band Linkin Park and became a vocalist. He died on July 20, 2017</string>
+    <string name="member_description_2">From the band Linkin Park and became a backing vocalist, guitarist, rapper</string>
+    <string name="member_description_3">From the band Linkin Park and became a guitarist</string>
+    <string name="member_description_4">From the band Linkin Park and became a drummer</string>
+    <string name="member_description_5">From the band Linkin Park and became a bassist</string>
+    <string name="member_description_6">From the band Linkin Park and became a turntablist</string>
+    <string name="member_description_7">From the band Bring Me The Horizon and became a vocalist</string>
+    <string name="member_description_8">From the band Bring Me The Horizon and became a keyboardist</string>
+    <string name="member_description_9">From the band Bring Me The Horizon and became a guitarist</string>
+    <string name="member_description_10">From the band Bring Me The Horizon and became a drummer</string>
+    <string name="member_description_11">From the band Bring Me The Horizon and became a bassist</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a member.</string>
+</resources>
